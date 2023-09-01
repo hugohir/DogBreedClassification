@@ -1,4 +1,4 @@
-# DogBreedClassification
+# Classifying Dog Images by Breeds
 Classifying Images of Dogs by Breed
 
 
