@@ -1,5 +1,18 @@
 # Classifying Dog Images by Breeds
-Classifying Images of Dogs by Breed
 
+Nov 30 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
 
-![Screenshot 2023-07-11 065039](https://github.com/hugohir/DogBreedClassification/assets/28999204/3b0bb030-e13e-4a29-a258-5ac15cc8599b)
+Machine learning can be used to identify images. In this project, we are going to identify breeds of dogs using CNN and the Stanford dogbreed dataset.
+
+![dogs image](https://i.imgur.com/GNpLCsP.jpg)
+
+**Dataset**
+
+Stanford's Dog Breed dataset has been wonderfully annotated. It contains a
+
+**Objective**
+
+To identify the breed of a dog shown in a picture.
+
+![dogs image](https://i.imgur.com/4mYqblX.jpg)
+
