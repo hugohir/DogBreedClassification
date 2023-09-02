@@ -2,13 +2,22 @@
 
 Nov 30 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
 
-Machine learning can be used to identify images. In this project, we are going to identify breeds of dogs using CNN and the Stanford dogbreed dataset.
+<img align="right" src="https://github.com/hugohiraoka/Classifying_Dog_images_by_Breeds/blob/b7f8e393e5dc5ec9a3a3867d3d21f1304d4ea3d2/img/dog_1.gif" width="100">
+
+Machine Learning image classification can be used in almost every field. Great candidates are whatever it takes a human a long time to know what the image is and any repetitive process. Some uses include detecting cancer cells, discovering new exo planets, detecting errors in wafer manufacturing, the self driving car, verifying signatures, detecting fruit disease, discovering new arqueological sites, detecting crime, face recognition, etc.
+
+In this project, we are going to identify breeds of dogs using CNN and the Stanford dogbreed dataset.
+To achieve this, we will develop a model using CNN and Densenet21.
+
 
 ![dogs image](https://i.imgur.com/GNpLCsP.jpg)
 
 **Dataset**
 
-Stanford's Dog Breed dataset has been wonderfully annotated. It contains a
+Stanford's Dog Breed dataset has been wonderfully annotated. It contains 20,580 dog images including 120 different dog breeds.
+
+![stanford dataset](https://i.imgur.com/9emiC8y.jpg)
+Sample of dataset images
 
 **Objective**
 
