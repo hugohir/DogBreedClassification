@@ -12,7 +12,7 @@ To achieve this, we will develop a model using CNN and Densenet21.
 
 ![dogs image](https://i.imgur.com/GNpLCsP.jpg)
 
-To view html version of the notebook: [classifying Dog breeds](https://github.com/hugohiraoka/Classifying_Dog_images_by_Breeds/blob/main/html/Classifying_Dog_Images_by_Breeds.html)
+To view html version of the notebook: [classifying Dog breeds](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Classifying_Dog_images_by_Breeds/blob/main/html/Classifying_Dog_Images_by_Breeds.html)
 **Dataset**
 
 Stanford's Dog Breed dataset has been wonderfully annotated. It contains 20,580 dog images including 120 different dog breeds.
