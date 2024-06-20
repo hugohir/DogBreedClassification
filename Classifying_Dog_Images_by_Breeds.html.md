@@ -1,1 +1,1 @@
-[View HTML version](https://htmlpreview.github.io/?[link](https://github.com/hugohiraoka/Dog_images_Classification_by_Breeds/blob/main/html/Classifying_Dog_Images_by_Breeds.html))
+[View HTML version](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Dog_images_Classification_by_Breeds/blob/main/html/Classifying_Dog_Images_by_Breeds.html)
