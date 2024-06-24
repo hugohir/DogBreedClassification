@@ -1,6 +1,6 @@
 # Classifying Dog Images by Breeds
 
-Nov 30 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
+Nov 30 2023 | Hugo Hiraoka | hhiraoka.w@gmail.com
 
 <img align="right" src="https://github.com/hugohiraoka/Classifying_Dog_images_by_Breeds/blob/b7f8e393e5dc5ec9a3a3867d3d21f1304d4ea3d2/img/dog_1.gif" width="100">
 
